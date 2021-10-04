@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = deftool@gmx.net
+	name = Tarik Azale
